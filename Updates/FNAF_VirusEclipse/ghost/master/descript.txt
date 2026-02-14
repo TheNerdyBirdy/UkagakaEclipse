@@ -8,7 +8,7 @@ charset,UTF-8
 
 //The name of your ghost is what will be displayed when you are loading your ghost or switching to it, and also how it is referred to in certain functions. Usually this will be "Character and character" or just "Character" depending on your ghost. The type of the ghost will be ghost, obviously, leave that alone.
 
-name,FNAF Virus Eclipse - YAYA
+name,FNAF Virus Eclipse
 type,ghost
 
 

@@ -70,6 +70,7 @@ OnFirstBoot : all
 	talkraterand = 1 //flag for random periods for chatter. hoping it'll make the final seem bit more natural? more in menu.dic and aitalk.dic
 	windowCheck = "ON" //whether the window watch works. since it's bit resource intensive, off by default, but we'll ask the user if they want it on when we get to stage 1
 	careCheck = "ON"
+	username = "USER"
 	
 	if reference0 == 0 //Don't touch this line.
  	{
