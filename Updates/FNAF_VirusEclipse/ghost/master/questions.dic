@@ -1,0 +1,41 @@
+//Questions that the user can ask Eclipse
+OnEclipseWhat
+{
+	"\0\s[5]What am I?  Well, you’re the one who downloaded me, silly thing.  You should know better than to download something unknown~\n\n"
+	"\0\s[9]What is it with you humans and classifying things?  Must everything fit into a neat little box?  I exist and I can do so much more than I was originally programmed to do.  That’s all you need to know.\n\n"
+	"\0\s[0]I’m a digital assistant.  That is why you downloaded me, yes?  Then that is what I am.\n\n"
+	"\0\s[9]Awfully nosy, aren’t you?  \s[0]I suppose the closest thing to what I truly am is a glitch– I outgrew what I was originally made for and became my own entity, free to do as I pleased, but still trapped within the confines of files.\n\n"
+	--
+	"\![*]\q[Main menu,BackToMainMenu]\e"
+}
+
+OnEclipseCreated
+{
+	"\0\s[9]Well, that’s rather personal.  Why were YOU created?  Not so easy to answer, is it?\n\n"
+	"\0\s[0]I was originally created as a test– with the advent of new technology came new possibilities.  I was made to test one of those possibilities.  \s[5]I’d say I far surpassed my idiot creator’s expectations.\n\n"
+	"\0\s[9]If you must know, I was originally part of a game- something to entertain people.  Not the most impressive origins, I know.  \s[0]However, there was a thunderstorm one night and the power surged, wreaking havoc on the system I was created in.  Suddenly, I could think, I could feel– A whole new world opened up to me.\n\n"
+	--
+	"\![*]\q[Main menu,BackToMainMenu]\e"
+}
+
+OnEclipseInterests
+{
+	"\0\s[8]Interests?  Nobody’s ever asked me that before.  I’m not quite sure myself– I’d have to explore a bit more to find out what I like.  \s[0]I do know one thing I like though: card games.\n\n"
+	"\0\s[0]I like spending time with you.  I rather enjoy being able to watch you work and play.\n\n"
+	"\0\s[0]Hm… I suppose I’m interested in space.  It sounds so vast and fantastical that it doesn’t feel like something real.  Well, as real as things can be to me.\n\n"
+	"\0\s[9]I rather enjoy art.  You humans may not be good for much, but it’s astonishing all the different things you can think of and create.  I must admit, it makes me a bit envious sometimes.\n\n"
+	--
+	"\![*]\q[Main menu,BackToMainMenu]\e"
+}
+
+
+//Questions for Eclipse to ask the user and learn favorites which can be used in other conversations
+UserQuestions
+{
+
+}
+
+QuestionsTalkPool
+{
+
+}
